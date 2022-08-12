@@ -17,6 +17,7 @@ while (k<=5) {
     sum=sum+k;
     k++;
 }
+console.log (sum);
 
  
 
